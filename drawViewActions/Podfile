@@ -1,0 +1,9 @@
+
+platform :ios, '8.0'
+
+target 'drawViewActions' do
+  use_frameworks!
+
+    pod 'YogaKit', '~> 1.7'
+    pod 'Masonry', '~> 1.1.0'
+end
